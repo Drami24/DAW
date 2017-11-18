@@ -4,7 +4,7 @@ public class Main {
 
 		// ***VARIABLES*** por exemplo
 		// Nombre de varialbe: num1
-		// Contenido de la variable: 3
+		// Contido da variable: 3
 		// Tipo de variable: número entero
 
 		int num1 = 3;
