@@ -14,7 +14,7 @@ public class Main {
 		// Cambiamos true por 1 e false por 0, tamén || por OR e && por AND
 		// 1 OR 0 AND 1
 
-		// mirando a táboa de OR e AND
+		// Mirando a táboa de OR e AND
 		// No caso de OR 1 + 0 = 1
 		// No caso de AND 1 + 1 = 1
 
