@@ -3,9 +3,9 @@ public class Main {
 	public static void main(String[] args) {
 
 		// ***VARIABLES*** por exemplo
-		// Nombre de varialbe: num1
+		// Nome de variable: num1
 		// Contido da variable: 3
-		// Tipo de variable: número entero
+		// Tipo de variable: número enteiro
 
 		int num1 = 3;
 		int num2 = 4;
