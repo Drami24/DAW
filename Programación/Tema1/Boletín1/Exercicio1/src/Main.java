@@ -6,5 +6,4 @@ public class Main {
 		// O método println permite imprimir por pantalla a través dunha ventá de consola
 		System.out.println("Ola curso"); // Ola curso
 	}
-
 }
