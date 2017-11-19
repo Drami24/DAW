@@ -21,6 +21,5 @@ public class Main {
 		// Resultado = 1
 		// Recordando o código anterior: 1 equivale a true, e 0 a false
 		// Resultado final = true
-
 	}
 }
