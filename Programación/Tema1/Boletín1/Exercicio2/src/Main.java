@@ -11,6 +11,6 @@ public class Main {
 		int num2 = 4;
 
 		// Se non engadimos os parénteses o resultado é 34 porque a suma de texto e número concatena
-		System.out.println("Resultado: " + (num1 + num2));
+		System.out.println("Resultado = " + (num1 + num2));
 	}
 }

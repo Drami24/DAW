@@ -2,6 +2,7 @@
 public class Main {
 	public static void main(String[] args) {
 
+		// Número de segundos
 		int valor = 150000;
 
 		// Dividimos entre 3600 para calcular as horas
