@@ -19,7 +19,7 @@ public class Main {
 		// No caso de non ser exacto
 		int segundos = resto % 60; // 0 segundos
 		
-		// Resultado final
+		// Resultado final: 41:40:0
 		System.out.println(horas + ":" + minutos + ":" + segundos);
 	}
 }
