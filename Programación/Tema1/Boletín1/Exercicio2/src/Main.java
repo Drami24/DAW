@@ -2,10 +2,9 @@
 public class Main {
 	public static void main(String[] args) {
 
-		// ***VARIABLES*** por exemplo
-		// Nome de variable: num1
-		// Contido da variable: 3
-		// Tipo de variable: número enteiro
+		// ***VARIABLES***
+		// Exemplo: int num = 3
+		// tipo de varialbe > nome da variable > valor
 
 		int num1 = 3;
 		int num2 = 4;
