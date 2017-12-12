@@ -3,7 +3,7 @@ public class Main {
 
 	public static void main(String[] args) {
 
-		// Variables de tipo enteiro que gardan 3 números para comparar cal é o máis grande
+		// Variables de tipo enteiro que gardan números para comparar cal é o máis grande
 		int num1 = 6;
 		int num2 = 8;
 		int num3 = 5;
