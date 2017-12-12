@@ -11,7 +11,7 @@ public class Main {
 		hipotenusa = Math.sqrt(Math.pow(cateto1, 2) + Math.pow(cateto2, 2));
 
 		// Outra forma de facelo
-		 hipotenusa = Math.hypot(cateto1, cateto2);
+		hipotenusa = Math.hypot(cateto1, cateto2);
 
 		System.out.println(hipotenusa);
 
