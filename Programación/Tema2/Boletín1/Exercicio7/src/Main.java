@@ -13,7 +13,7 @@ public class Main {
 		// Usando directamente o método que calcula a hipotenusa
 		hipotenusa = Math.hypot(cateto1, cateto2);
 
-		System.out.println(hipotenusa);
+		System.out.println("O resultado da hipotenusa é: " + hipotenusa);
 
 	}
 
