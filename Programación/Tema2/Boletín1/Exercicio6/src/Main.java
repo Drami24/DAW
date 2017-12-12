@@ -31,6 +31,7 @@ public class Main {
 			break;
 		default:
 			System.out.println("Este mes " + mes + " no existe");
+			break;
 		}
 	}
 }
