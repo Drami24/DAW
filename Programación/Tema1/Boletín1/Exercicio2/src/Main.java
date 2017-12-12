@@ -4,7 +4,7 @@ public class Main {
 
 		// ***VARIABLES***
 		// Exemplo: int num = 3
-		// tipo de varialbe > nome da variable > valor
+		// tipoDeVariable nomeDaVariable = valor
 
 		int num1 = 3;
 		int num2 = 4;
